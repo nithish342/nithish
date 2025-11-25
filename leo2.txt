@@ -1,4 +1,9 @@
 Leo 2
 Parthiban goes to cofee shop and resumes his work
 sathya comes to cofee shop for helping parthiban
+<<<<<<< HEAD
 pathiban wife is dead and samantha entrys
+=======
+pathiban wife is dead and samantha entry
+then rolex enter the turning point
+>>>>>>> 8895ca25d87e3277dffb9ee3b5ebe110e6095b08
